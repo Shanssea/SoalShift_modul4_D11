@@ -35,11 +35,10 @@ Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau fold
 	//printf("\n%s\n",name);
 	//printf("%s\n",res);
 	return res;
-}
+	}
 	```
 	Berikut adalah funsi dekripnya
-	
-	```c
+```c	
 char *decc(const char *name, int key){
 	char ch;
 	char *res = (char*) malloc(sizeof(char));
@@ -62,8 +61,8 @@ char *decc(const char *name, int key){
 	//printf("%s\n",res);
 	return res;
 }
-	```
-	Path di enkrip di enkrip di xmp_getattr dan di bagian awal xmp_readdir untuk bisa mengembalikan nama file/folder agar bisa mencari file/folder yang dimaksud. Untuk mendekripnya dilakukan di dalam while di xmp_readdir untuk mengembalikan nama file/folder agar terbaca.
+```
+Path di enkrip di enkrip di xmp_getattr dan di bagian awal xmp_readdir untuk bisa mengembalikan nama file/folder agar bisa mencari file/folder yang dimaksud. Untuk mendekripnya dilakukan di dalam while di xmp_readdir untuk mengembalikan nama file/folder agar terbaca.
 
 #### Soal 2
 - Semua file video yang tersimpan secara terpecah-pecah (splitted) harus secara otomatis tergabung (joined) dan diletakkan dalam folder “Videos”
