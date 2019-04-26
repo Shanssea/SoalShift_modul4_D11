@@ -1,11 +1,11 @@
 # Soal Shift Modul 4
 
 ### List Soal
-[Soal 1](#Soal_1)
-[Soal 2](#Soal_2)
-[Soal 3](#Soal_3)
-[Soal 4](#Soal_4)
-[Soal 5](#Soal_5)
+- [Soal 1](#Soal_1)
+- [Soal 2](#Soal_2)
+- [Soal 3](#Soal_3)
+- [Soal 4](#Soal_4)
+- [Soal 5](#Soal_5)
 
 #### Soal 1
 - Atta menginginkan nama file system yang akan kalian buat adalah “AFSHiaAP”, yang nama kepanjangannya adalah AHHA’s File System: Hierarchical and Advanced Protection. Berikut ini kebutuhan yang harus kalian penuhi:
