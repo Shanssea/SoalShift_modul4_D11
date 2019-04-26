@@ -38,6 +38,7 @@ Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau fold
 }
 	```
 	Berikut adalah funsi dekripnya
+	
 	```c
 char *decc(const char *name, int key){
 	char ch;
